@@ -1,5 +1,5 @@
 # MediaQuery
-This app demonstrates visual changes when using MediaQuery 
+This app demonstrates visual changes while using MediaQuery
 
 # MIT License
 MIT License Copyright (c) 2020 Elena Chechulina
